@@ -7,4 +7,4 @@
 ## Comando para implementação do container
 $ docker container run --name conversao-temperatura -p 8080:8080 -d priscilaalv/conversao_temperatura:V3
 
-Aplicação acessível em http://localhost:8080
+Após implementação local, aplicação acessível em http://localhost:8080
